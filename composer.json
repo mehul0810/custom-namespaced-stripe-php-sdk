@@ -1,7 +1,7 @@
 {
     "name": "stripe-sdk-customizer/stripe-php",
     "type": "composer-plugin",
-    "license": "GPL-2.0-or-later",
+    "license": "GPL-3.0-or-later",
     "description": "This composer plugin will help you add custom namespace to Stripe SDK using PHPScoper.",
     "homepage": "https://www.mehulgohil.in",
     "require": {
