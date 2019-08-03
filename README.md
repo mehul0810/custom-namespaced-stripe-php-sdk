@@ -21,5 +21,14 @@ $ composer install
 
 That's it! You're done.
 
+## Troubleshooting
+If you're facing issues with generating files properly or any random error arises. Then, follow the steps as mentioned:
+
+1. Remove `composer.lock` file.
+2. Clear Composer cache.
+```
+$ composer clear-cache
+```
+
 ## Special Thanks
 - [GiveWP](https://givewp.com)
