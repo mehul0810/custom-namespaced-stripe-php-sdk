@@ -1,4 +1,4 @@
-# Stripe SDK Customiser
+# Custom Namespaced Stripe PHP SDK
 This composer plugin will help you add custom namespace to Stripe SDK for PHP so that you can easily use the custom namespaced Stripe SDK in your WordPress plugins. 
 
 Using this will help you avoid conflicts with other WordPress plugins who are using the same Stripe PHP SDK with different versions.
